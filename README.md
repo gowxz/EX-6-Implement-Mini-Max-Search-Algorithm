@@ -1,6 +1,6 @@
 <h1>ExpNo 6 : Implement Minimax Search Algorithm for a Simple TIC-TAC-TOE game</h1> 
-<h3>Name: HANIEL REENA D R     </h3>
-<h3>Register Number:  2305001008     </h3>
+<h3>Name: GOWTHAM S    </h3>
+<h3>Register Number:  2305002008     </h3>
 <H3>Aim:</H3>
 <p>
     Implement Minimax Search Algorithm for a Simple TIC-TAC-TOE game
